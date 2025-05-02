@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋  Hi, I'm Debanshu De<br>🖥   Intermediate Developer<br>💻  Currently working on my own webpage<br>🌱  def bio():<br>       return "👨‍💻 Bytecrafter|💡 Problem Solver|🌍 Tech Explorer "
+👋  Hi, I'm Debanshu De<br>🖥   Intermediate Developer<br>💻  Currently working on my own webpage<br>🌱  def bio():<br>         return "👨‍💻 Bytecrafter|💡 Problem Solver|🌍 Tech Explorer "
 
 
 ## 🌐 Socials:
